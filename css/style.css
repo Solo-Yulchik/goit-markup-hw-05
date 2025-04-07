@@ -759,12 +759,8 @@ button {
   font-size: 12px;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
-  align-items: center;
-}
 
-.modal-check-square {
-  display: inline-flex;
+  align-items: center;
 }
 
 .modal-check-text a {
